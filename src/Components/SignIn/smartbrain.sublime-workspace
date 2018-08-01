@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rig",
+				"rightCol"
+			],
+			[
+				"top",
+				"topRow"
+			],
+			[
+				"di",
+				"displayFaceBox"
+			],
+			[
+				"cla",
+				"clarifaiFace"
+			],
+			[
+				"on",
+				"onButtonSubmit"
+			],
+			[
+				"par",
+				"particlesOptions"
+			],
+			[
+				"Compo",
+				"Components"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"filt",
+				"filteredRobots"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"sea",
+				"searchfield"
+			],
+			[
+				"Ca",
+				"cardComponent"
+			],
+			[
+				"Car",
+				"CardList"
+			],
+			[
+				"i",
+				"isUserValid"
+			],
+			[
+				"userna",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pa",
+				"passwordPrompt"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tborder-color"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/App.js",
+			"settings":
+			{
+				"buffer_size": 2236,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SignIn.js",
+			"settings":
+			{
+				"buffer_size": 1585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/FaceRecognition/FaceRecognition.js",
+			"settings":
+			{
+				"buffer_size": 568,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"su",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: act",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Enable Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/FaceRecognition",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/ImageLinkForm",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Logo",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Navigation",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Rank"
+	],
+	"file_history":
+	[
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/FaceRecognition/FaceRecognition.css",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Rank/Rank.js",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/App.css",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/index.css",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Logo/Logo.css",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Logo/Logo.js",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Logo.js",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/Navigation/Navigation.js",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/index.js",
+		"/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/.eslintrc",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/Scroll.js",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/App.js",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/index.js",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/Searchbox.js",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/index.css",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/App.css",
+		"/C/Users/joao.gameiro/Downloads/mrrobot-cufonfonts-webfont/MR ROBOT.woff",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/Se",
+		"/C/Users/joao.gameiro/Documents/Robofriends/src/Searchbox"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1801,
+								1801
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.52.region_keys":
+							[
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1083.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SignIn.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1554,
+								65
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+								"SL.eslint.Highlights.|f4f14e930c2afeefbee3bb145431cf6f28e9207670a604642d0f5a5c5a7e3237|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|dot"
+							],
+							"SL.40.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_name": "",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/joao.gameiro/Documents/SmartBrain/smartbrain/src/Components/FaceRecognition/FaceRecognition.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"SL.37.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "smartbrain.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
